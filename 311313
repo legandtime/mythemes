@@ -156,13 +156,13 @@
 /* Person Info Top part 2/2*/
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: hsla(0,5%,0%,.3);
-    color: hsla(0,0%,100%,.3);
+    color: hsla(0,0%,100%,.8);
 }
 /* Person Info message box Transparency */
 .theme-dark .quickMessage-1yeL4E {
     background-color: hsla(0,5%,0%,.3);
     border-color: rgb(0,0,0);
-    color: hsla(0,0%,100%,.3);
+    color: hsla(0,0%,100%,.7);
 }
 /* Person Info Border */
 .theme-dark .userPopout-3XzG_A {
@@ -1151,11 +1151,11 @@
 /* Mention name text color Normal and Hover and background color */
 .theme-dark .wrapper-3WhCwL {
 	background-color: rgba(114, 218, 130, 0.1);
-    color:#009bff;
+    color: #009bff;
 }
 .theme-dark .isMentioned-N-h9aa .mention:hover, .theme-light .isMentioned-N-h9aa .mention:hover {
 	background-color: rgba(114, 218, 121, 0.7);
-    color:#1878b6;
+    color: #1878b6;
 }
 
 /* Invalid Invite boxes Transparency and icon transparency */
@@ -1169,5 +1169,5 @@
 
 /* new message box */
 .wrapper-232cHJ {
-    background-color:#1878b6;
+    background-color: #1878b6;
 }
